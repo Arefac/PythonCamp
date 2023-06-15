@@ -10,8 +10,6 @@ Introduction to Python: Basic concepts, Python installation, and development env
 </li>
     <li>Data structures: Lists, tuples, dictionaries, sets, and strings.
 </li>
-    <li>Data structures: Lists, tuples, dictionaries, sets, and strings.
-</li>
     <li>Operators and arithmetic operations: Mathematical operations, logical operators, and string operations.
 </li>
     <li>Files and input/output: Reading from and writing to files, working with console input and output.
