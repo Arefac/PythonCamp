@@ -1,3 +1,4 @@
+<h1>Python and data science</h1>
 In this training camp, the intention is to teach participants various topics in Python and data science. These two areas are among the most popular and important subjects in the field of information technology, and acquiring knowledge in these areas can expand job opportunities and professional development.
 
 During the course, the goal is to teach students the essential concepts in Python and data science. The focus areas can include:
